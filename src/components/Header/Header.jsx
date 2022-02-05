@@ -9,14 +9,14 @@ const Header = () => {
     const classes = useStyles();
 
     return (
-        <AppBar position="static">
+        <AppBar position="static" className={classes.nav}>
             <Toolbar className={classes.toolbar}>
                 <Typography variant="h5" className={classes.title}>
-                    Travel Advisor
+                    Eco Advisor
                 </Typography>
                 <Box display="flex">
                     <Typography variant="h6" className={classes.title}>
-                        Explore new places
+                        Explore Citi Bikes
                     </Typography>
                     {/* <Autocomplete> */}
                         <div className={classes.search}>

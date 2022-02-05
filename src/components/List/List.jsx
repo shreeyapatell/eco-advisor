@@ -10,17 +10,17 @@ const List = () => {
 
     return (
         <div className={classes.container}>
-            <Typography variant="h4">Restaurants, Hotels & Attractions around you</Typography>
+            <Typography variant="h4">Citi Bikes, Recycling and Compost Bins near you</Typography>
             <FormControl className={classes.formControl}>
                 <InputLabel>Type</InputLabel>
                 <Select value={type} onChange={(e) => setType(e.target.value)}>
-                    <MenuItem value="restaurants">Restaurants</MenuItem>
-                    <MenuItem value="hotels">Hotels</MenuItem>
-                    <MenuItem value="attractions">Attractions</MenuItem>
+                    <MenuItem value="restaurants">Citi Bikes</MenuItem>
+                    <MenuItem value="hotels">Recycling Bins</MenuItem>
+                    <MenuItem value="attractions">Compost Buins</MenuItem>
                 </Select>
             </FormControl>
             <FormControl className={classes.formControl}>
-                <InputLabel>Rating</InputLabel>
+                <InputLabel>Eco Rating</InputLabel>
                 <Select value={rating} onChange={(e) => setRating(e.target.value)}>
                     <MenuItem value={0}>All</MenuItem>
                     <MenuItem value={3}>Above 3.0</MenuItem>

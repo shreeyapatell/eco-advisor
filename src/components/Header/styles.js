@@ -1,8 +1,15 @@
 import { alpha, makeStyles } from '@material-ui/core/styles';
+/* https://mui.com/customization/palette/ */
 
 export default makeStyles((theme) => ({
+  nav: {
+    backgroundColor: alpha(theme.palette.success.light, 0.80),
+    '&:hover': { backgroundColor: alpha(theme.palette.success.light, 0.80) },
+  },
+  
   title: {
     display: 'none',
+    color: 'inherit',
     [theme.breakpoints.up('sm')]: {
       display: 'block',
     },
