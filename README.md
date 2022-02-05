@@ -26,7 +26,7 @@ In order to run the app, open the terminal and type the following command:
 ### Figma
 Open https://www.figma.com/file/N8jgeigGlg0kq1KLSvsEwE/Blackwings-Hackathon-App?node-id=0%3A1
 
-Contributors: 
+### Contributors: 
 Team Girlillas -- Shreeya Patel, Rhea Charles, Jocelyn Ma
 
 
