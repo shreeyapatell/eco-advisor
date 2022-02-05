@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Blackwings Hackathon 2022 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -19,3 +19,11 @@ You may also see any lint errors in the console.
 In order to run the app, open the terminal and type the following command:
 
 ### `npm install @material-ui/core @material-ui/icons @materials-ui/lab @react-google-maps/api axios google-map-react`
+
+### Figma
+Open https://www.figma.com/file/N8jgeigGlg0kq1KLSvsEwE/Blackwings-Hackathon-App?node-id=0%3A1
+
+Contributors: 
+Shreeya Patel, Rhea Charles, Jocyln Ma
+
+
