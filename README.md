@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Synopsis
-Eco Advisor is a socio-environmental technological development used to provide kes insights into how users can reduce their carbon footprint by using Citibikes and recycling/composting. Users also have the ability to check the air quality of their locations. This data is ideally called through APIs (https://rapidapi.com/eskerda/api/citybikes/ and https://rapidapi.com/weatherbit/api/air-quality/). We used a combination of digital tools and software including Figma, React, css, jsx, axios, and APIs to construct this app. 
+Eco Advisor is a socio-environmental technological development used to provide key insights into how users can reduce their carbon footprint by using Citibikes and recycling/composting. Users also have the ability to check the air quality of their locations. This data is ideally called through APIs (https://rapidapi.com/eskerda/api/citybikes/ and https://rapidapi.com/weatherbit/api/air-quality/). We used a combination of digital tools and software including Figma, React, css, jsx, axios, and APIs to construct this app. 
 
 ## Available Scripts
 
